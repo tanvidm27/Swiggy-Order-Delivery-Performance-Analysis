@@ -1,7 +1,7 @@
 Swiggy-Order-Delivery-Performance-Analysis
 This project is a Power BI dashboard built using sample data from a fictional restaurant business inspired by Swiggy Food App. It analyzes restaurant performance, customer behavior, and order trends through interactive visuals and insights. Built using Power BI Desktop with DAX and Power Query…
 
-🍽️ Swiggy Dashboard
+🍽️ **Swiggy Dashboard**
 Swiggy Data Analysis Project – Power BI
 A data-driven dive into restaurant trends, customer behavior, and order performance – all visualized with Power BI.
 📊 Built for storytelling, insight, and smarter business decisions.
