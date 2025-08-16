@@ -1,67 +1,70 @@
-Swiggy-Order-Delivery-Performance-Analysis
-This project is a Power BI dashboard built using sample data from a fictional restaurant business inspired by Swiggy Food App. It analyzes restaurant performance, customer behavior, and order trends through interactive visuals and insights. Built using Power BI Desktop with DAX and Power Query…
+# Swiggy-Order-Delivery-Performance-Analysis
+- This project is a Power BI dashboard built using sample data from a fictional restaurant business inspired by Swiggy Food App. It analyzes restaurant performance, customer behavior, and order trends through interactive visuals and insights.  Built using Power BI Desktop with DAX and Power Query…
 
-🍽️ **Swiggy Dashboard**
-Swiggy Data Analysis Project – Power BI
-A data-driven dive into restaurant trends, customer behavior, and order performance – all visualized with Power BI.
-📊 Built for storytelling, insight, and smarter business decisions.
-🚀 Quick Look
-🔍 Overview 📈 Dashboard 📂 Data
-Analyze Zomato-inspired restaurant data Fully interactive Power BI visuals Clean, Excel-based sources
-🛠️ Tech Stack & Tools
-Tool Purpose
-Power BI Dashboard design, DAX, visuals
-Power Query Data transformation & modeling
-Excel Raw data creation & preprocessing
-📌 Project Highlights
-📊 Built using Power BI with multiple Excel data sources
+# 🍽️ Swiggy Dashboard
+- Swiggy Data Analysis Project – Power BI
+- A data-driven dive into restaurant trends, customer behavior, and order performance – all visualized with Power BI.
+- 📊 Built for storytelling, insight, and smarter business decisions.
 
-🎯 Key Metrics: revenue, top-selling items, customer types, order frequency
+# 🚀 Quick Look
+- 🔍 Overview	📈 Dashboard	📂 Data
+- Analyze Zomato-inspired restaurant data	Fully interactive Power BI visuals	Clean, Excel-based sources
 
-🔗 Strong data relationships and DAX logic
+# 🛠️ Tech Stack & Tools
+- Tool	Purpose
+- Power BI	Dashboard design, DAX, visuals
+- Power Query	Data transformation & modeling
+- Excel	Raw data creation & preprocessing
 
-✨ Designed with storytelling and clear business KPIs
+# 📌 Project Highlights
+- 📊 Built using Power BI with multiple Excel data sources
 
-📱 Optimized for viewer-friendly presentation
+- 🎯 Key Metrics: revenue, top-selling items, customer types, order frequency
 
-📂 Data Sources
-💾 All sample data is fictional and created for learning purposes.
+- 🔗 Strong data relationships and DAX logic
 
-File Name :- Swiggy Project Files.
+- ✨ Designed with storytelling and clear business KPIs
 
-users.xlsx :- Customer profiles.
+- 📱 Optimized for viewer-friendly presentation
 
-restaurant.xlsx :- Restaurant listings.
+# 📂 Data Sources
+- 💾 All sample data is fictional and created for learning purposes.
 
-orders.xlsx :- Transaction records.
+- File Name :-	Swiggy Project Files.
+- users.xlsx :-	Customer profiles.
+- restaurant.xlsx :-	Restaurant listings.
+- orders.xlsx	:- Transaction records.
+- orders_type.xlsx :-	Order mode/type classification.
+- menu.xlsx	:- Menu items and details.
+- food.xlsx	:- Food category mapping.
 
-orders_type.xlsx :- Order mode/type classification.
+# 📁 Explore datasets in the Files/ folder
+# 📁 Dashboard report is in the SwiggyDashBoard/ folder
+# 📸 Screenshots are in the Dashboard Screenshots/ folder
 
-menu.xlsx :- Menu items and details.
+# 🔍 Key Insights & Visuals
+- ✅ Top-Selling Dishes & Food Categories
+- ✅ Customer Segments & Ordering Patterns
+- ✅ City-wise Performance
+- ✅ Sales, Ratings & User Distribution by Region
 
-food.xlsx :- Food category mapping.
+# 📷 Sample Visuals
 
-📁 Explore datasets in the Files/ folder
-📁 Dashboard report is in the SwiggyDashBoard/ folder
-📸 Screenshots are in the Dashboard Screenshots/ folder
-🔍 Key Insights & Visuals
-✅ Top-Selling Dishes & Food Categories
-✅ Customer Segments & Ordering Patterns
-✅ City-wise Performance
-✅ Sales, Ratings & User Distribution by Region
-📷 Sample Visuals
-🧠 What You'll Learn
-How to create data models in Power BI
+# 🧠 What You'll Learn
+- How to create data models in Power BI
 
-Writing custom DAX measures for business KPIs
+- Writing custom DAX measures for business KPIs
 
-Designing clean, insightful dashboards
+- Designing clean, insightful dashboards
 
-Making sense of raw business data
+- Making sense of raw business data
 
-📌 Note
-This is a sample project created for educational and portfolio purposes.
-No real Swiggy data was used.
-👤 Author
-Tanvi D Mhaske.
-⭐️ If you found this useful, give it a star and share it with others!
+# 📌 Note
+- This is a sample project created for educational and portfolio purposes.
+- No real Swiggy data was used.
+
+# 👤 Author
+- Tanvi D Mhaske.
+
+# ⭐️ If you found this useful, give it a star and share it with others!
+
